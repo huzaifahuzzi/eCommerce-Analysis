@@ -1,4 +1,4 @@
-# Huzaifahuzzi E-Commerce Analysis
+#  E-Commerce Analysis
 
 This project focuses on exploratory data analysis (EDA) and customer segmentation for an e-commerce dataset. The objective is to derive actionable business insights and classify customers into meaningful segments based on transactional behavior.
 
@@ -53,5 +53,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 Feel free to contribute or suggest improvements!
 ```
-
-This format provides the necessary information in a compact style while remaining clear and organized. Let me know if you'd like further modifications!
