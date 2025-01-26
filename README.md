@@ -49,7 +49,3 @@ Developed as part of a collaborative effort. Team members can document their con
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
----
-Feel free to contribute or suggest improvements!
-```
